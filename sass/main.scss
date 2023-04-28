@@ -14,7 +14,7 @@ html {
 	scroll-behavior: smooth;
 }
 body {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Oxygen', sans-serif;
 	font-size: 1.6rem;
 	color: $white;
 	background-color: $cream;
@@ -23,7 +23,7 @@ body {
 h1.company-name {
 	margin-bottom: 0.5em;
 	font-size: 3rem;
-	font-family: 'Cinzel', serif;
+	font-family: 'Oxygen', sans-serif;
 	color: $plum;
 }
 
@@ -240,9 +240,9 @@ h1.company-name {
 	}
 }
 
-// INFO
+// studio
 
-.info {
+.studio {
 	position: relative;
 	display: grid;
 	grid-template-areas:
@@ -292,9 +292,9 @@ h1.company-name {
 	}
 }
 
-// PLANS
+// workshops
 
-.plans {
+.workshops {
 	padding: 6em 2em;
 	background-color: $cream;
 
